@@ -12,6 +12,10 @@ Best plugins and themes for [**Cogear.JS**](https://cogearjs.org)
 
 * [YouTube](https://github.com/codemotion/cogear-plugin-youtube) Embed youtube videos by links.
 
+## Blogging
+
+* [Blog](https://github.com/codemotion/cogear-plugin-blog) Simple blog with pagination and tags.
+
 # Themes
 
 * [Default](https://github.com/codemotion/cogear-theme-default) Default theme. To learn how to.
