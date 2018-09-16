@@ -13,9 +13,13 @@ Best plugins and themes for [**Cogear.JS**](https://cogearjs.org)
 
 * [YouTube](https://github.com/codemotion/cogear-plugin-youtube) Embed youtube videos by links.
 
+## Frontend frameworks
+* [Vue](https://github.com/codemotion/cogear-plugin-vue) Brings Vue SFC import to entry points.
+
 ## Blogging
 
 * [Blog](https://github.com/codemotion/cogear-plugin-blog) Simple blog with pagination and tags.
+* [Blog-RSS](https://github.com/codemotion/cogear-plugin-blog-rss) Adds RSS to blog.
 
 # Themes
 
