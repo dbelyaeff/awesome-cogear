@@ -18,7 +18,7 @@ After that you need to edit your site `config.yaml` to set up installed theme.
 
 # Usage
 
-Describe theme usage.
+In the layouts section, you can find various themes to use on your website. These themes will all be responsive to the particular device (mobile, tablet, computer)! 
 
 # Docs
 
