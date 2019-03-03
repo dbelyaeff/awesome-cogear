@@ -26,6 +26,7 @@ Best plugins and themes for [**Cogear.JS**](https://cogearjs.org)
 * [Default](https://github.com/codemotion/cogear-theme-default) – Default theme. To learn how to.
 * [Blog](https://github.com/codemotion/cogear-theme-blog) – Blog theme with no framework. Clone it and edit for your needs.
 * [Bootstrap 4](https://github.com/codemotion/awesome-cogear) - Various Bootstrap 4 themes. Best used for responsive design (mobile, tablet, ect.)
+* [EJS Bootstrap Blog](https://github.com/dtslvr/cogear-theme-ejs-bootstrap-blog) - Blog theme based on Bootstrap 4 in ejs. Clone it and edit for your needs.
 
 # Presets
 
