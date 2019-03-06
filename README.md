@@ -31,3 +31,4 @@ Best plugins and themes for [**Cogear.JS**](https://cogearjs.org)
 # Presets
 
 * [Blog](https://github.com/codemotion/cogear-preset-blog) – Simple blog preset with responsive theme.
+* [Bootstrap 4 blog in ejs](https://github.com/dtslvr/cogear-preset-ejs-bootstrap-blog) — Bootstrap 4 blog preset, provided by [@dtslvr](https://github.com/dtslvr).
